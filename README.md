@@ -1,7 +1,5 @@
 <div align="center">
 
-<!-- HEADER BANNER — swap color/text to taste at capsule-render.vercel.app -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:3b82f6&height=200&section=header&text=Hey,%20I'm%20Rodrigo%20👋&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Developer%20·%20Node.js%20·%20React%20·%20PostgreSQL&descAlignY=62&descSize=18&descColor=94a3b8)
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rodrigosantoscosta)
